@@ -7,3 +7,17 @@ h5 {font-weight: 600;}
 
 ul {list-style: none;}
 a {text-decoration: none;}
+
+.port {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.port img {
+	border: 2px solid black;
+}
+figcaption {
+	text-align: center;
+	font-weight: 600;
+}
+a figcaption {color: #000; }
